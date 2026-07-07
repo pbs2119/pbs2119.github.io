@@ -22,7 +22,9 @@ https://thomsonyen.github.io/
 
 ## About My Project
 
-This summer, I'll be helping out with the MBABench research project at Hong's lab.  Current LLM evaluations fail to capture the high-level qualities that matter to practitioners. In finance, where spreadsheets are the primary deliverable, these qualities determine whether a model is usable in practice.  MBABench is a pipeline that evaluates LLM agents on end-to-end financial spreadsheet tasks, with a particular focus on the usability dimensions that matter in practice.
+This summer, I'll be helping out with the MBABench research project at Hong's lab.  Current LLM evaluations generally fail to evaluate the ability of AI agents to produce spreadsheets that meet real world usability requirements in fields such as finance. MBABench is a pipeline that evaluates LLM agents on end-to-end financial spreadsheet tasks, with a particular focus on those usability dimensions that matter in practice.
+
+This summer, we'll be focusing on the second iteration of the MBABench.  See results of the first iteration here:
 
 https://www.mba-bench.com/
 
