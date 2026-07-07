@@ -8,7 +8,7 @@ title: DREAM Project Site
 
 ## About Me
 
-I'm currently a student at Columbia University seeking a Master of Science in computer science.  Before this, I spent several years working in both investment banking and private equity.  I previously attended the University of Notre Dame and studied both finance and applied mathematics.  My target graduation date from Columbia is spring 2027.  
+I'm currently a student at Columbia University seeking a Master of Science in Computer Science.  Before this, I spent several years working in both investment banking and private equity.  I previously attended the University of Notre Dame and studied both finance and applied mathematics.  My target graduation date from Columbia is spring 2027.  
 
 ## About My Advisor
 
@@ -16,7 +16,7 @@ My research advisor for the summer is Hongseok (Hong) Namkoong.  Hong is an Asso
 
 https://hsnamkoong.github.io/
 
-Day-to-day, I'll be working under Thomson Yen, a Ph.D candidate at Columbia, who is a leader of the MBABench project.  
+Day-to-day, I'll be working under Thomson Yen, a Ph.D. candidate at Columbia, who is a leader of the MBABench project.  
 
 https://thomsonyen.github.io/
 
